@@ -1,11 +1,10 @@
 import time
 import os
-import sys
 
 workTime = 25 # 25min
 breakTime = 5 # 5min
-breakTimeLong = 15 # 15min
-pomoCycle = 4 # 2 hours total
+breakTimeLong = 20 # 20min
+pomoCycle = 4 # 4 hours total
 breakCycle = 4 # do breakTimeLong after 4 cycles
 cycleCount = 0
 soundFile = "/home/mcramer/repos/pomodoro/ding.wav"
